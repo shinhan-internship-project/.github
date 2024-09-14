@@ -31,7 +31,7 @@ PB나 고객 입장에서 다음과 같은 불편함을 느낀다고 조사되�
 |:---:|:---:|:---:|:---:|:---:|
 |<img width="160px" src="https://avatars.githubusercontent.com/u/99806443?v=4"/> |<img width="160px" src="https://avatars.githubusercontent.com/u/46741373?v=4" />|<img width="160px" src="https://avatars.githubusercontent.com/u/150140536?v=4" />|<img width="160px" src="https://avatars.githubusercontent.com/u/129421334?v=4" />|<img width="160px" src="https://avatars.githubusercontent.com/u/128025654?v=4" />|
 |[@kkh0331](https://github.com/kkh0331)|[@rlafl7942](https://github.com/rlafl7942)|[@Tomk2d](https://github.com/Tomk2d)|[@eehanseul](https://github.com/eehanseul)|[@bookeers](https://github.com/bookeers)|
-|Calendar Page<br/>MyPage<br/>실시간 통신 연결|Main Page<br/>Chat Pae<br/>전체 UI/UX 구성|실시간 통신 연결<br/>Chat API<br/>Main Page API<br/>아키텍처 설계<br/>DB 설계<br/>인프라 및 배포|DB 설계<br/>User API<br/>Main API<br/>Document API<br/>Calendar API|Login Page<br/>회원가입 Page<br/>PB 데이터 생성|
+|Calendar Page<br/>MyPage<br/>실시간 통신 연결|Main Page<br/>Chat Page<br/>전체 UI/UX 구성|실시간 통신 연결<br/>Chat API<br/>Main Page API<br/>아키텍처 설계<br/>DB 설계<br/>인프라 및 배포|DB 설계<br/>User API<br/>Main API<br/>Document API<br/>Calendar API|Login Page<br/>회원가입 Page<br/>PB 데이터 생성|
 
 ## Main Features
 ### ⭐️ 메인 페이지
